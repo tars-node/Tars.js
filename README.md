@@ -4,7 +4,7 @@
 
 我们基于 [Tars](http://tars.tencent.com) 体系研发出 Tars.js 以便用户在不改变异构系统整体架构的情况下快速搭建（迁移） Node.js 服务，并可非常方便的将原来的单一服务拆分为多个（逻辑）子服务。
 
-![Tars.js](https://github.com/tars-node/Tars.js/blob/master/doc/images/tarsjs_architecture.png?raw=true)
+![Tars.js](https://github.com/tars-node/Tars.js/blob/master/docs/images/tarsjs_architecture.png?raw=true)
 
 Tars.js 在腾讯内部经过 5 年多的沉淀与迭代（Node.js@0.10版本即提供支持），广泛运用于腾讯QQ浏览器、腾讯桌面浏览器、腾讯地图、应用宝、腾讯手机管家、互联网+、腾讯医疗、腾讯觅影、保险、彩票等几十个重要业务中，日承担了上百亿流量。
 
