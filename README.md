@@ -51,14 +51,15 @@ Tars.js 根据不同的业务类型提供差异化运营方案：
 
 由于篇幅有限未能展示所有能力，如果您有更多需求（如 RPC 调用等）可使用 Tars.js 所提供的模块（如下）实现：
 
-* [@tars/rpc](https://www.npmjs.com/package/@tars/rpc) : RPC 通信模块。
-* [@tars/stream](https://www.npmjs.com/package/@tars/stream) : Tars 协议编解码模块。
-* [@tars/logs](https://www.npmjs.com/package/@tars/logs)：日志组件，包含滚动（大小、时间）与染色日志。
-* [@tars/config](https://www.npmjs.com/package/@tars/config)：用于获取服务配置文件。
+* [@tars/rpc](https://www.npmjs.com/package/@tars/rpc) : Tars RPC 调用模块。
+* [@tars/stream](https://www.npmjs.com/package/@tars/stream) : Tars(Tup) 协议编解码模块。
+* [@tars/logs](https://www.npmjs.com/package/@tars/logs)：日志组件，包含（按大小、时间）滚动与远程日志。
+* [@tars/config](https://www.npmjs.com/package/@tars/config)：用于在线获取服务配置文件。
 * [@tars/monitor](https://www.npmjs.com/package/@tars/monitor)：提供服务监控、特性监控与PP监控上报支持。
-* [@tars/notify](https://www.npmjs.com/package/@tars/notify)：用于（告警）消息上报。
-* [@tars/utils](https://www.npmjs.com/package/@tars/utils)：辅助工具集合，包含配置文件与 Endpoint 解析器。
-* [@tars/dyeing](https://www.npmjs.com/package/@tars/dyeing)：染色工具。
+* [@tars/notify](https://www.npmjs.com/package/@tars/notify)：用于服务（告警）消息上报。
+* [@tars/utils](https://www.npmjs.com/package/@tars/utils)：辅助工具集合，包含 Tars 配置文件与 Tars RPC Endpoint 解析器。
+* [@tars/dyeing](https://www.npmjs.com/package/@tars/dyeing)：Tars RPC 染色定义模块。
+* [@tars/registry](https://www.npmjs.com/package/@tars/registry)：用于 Tars 名字服务查询（Servant ===> Endpoint）。
 
 每个模块（点击名称跳转）均有极为详细的文档（README）方便您在任何时候查阅。
 
