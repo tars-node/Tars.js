@@ -1,0 +1,36 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/tars-node/config.git
+[submodule "registry"]
+	path = registry
+	url = https://github.com/tars-node/registry.git
+[submodule "deploy"]
+	path = deploy
+	url = https://github.com/tars-node/deploy.git
+[submodule "winston-tars"]
+	path = winston-tars
+	url = https://github.com/tars-node/winston-tars.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/tars-node/utils.git
+[submodule "logs"]
+	path = logs
+	url = https://github.com/tars-node/logs.git
+[submodule "node-agent"]
+	path = node-agent
+	url = https://github.com/tars-node/node-agent.git
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/tars-node/monitor.git
+[submodule "notify"]
+	path = notify
+	url = https://github.com/tars-node/notify.git
+[submodule "stream"]
+	path = stream
+	url = https://github.com/tars-node/stream.git
+[submodule "rpc"]
+	path = rpc
+	url = https://github.com/tars-node/rpc.git
+[submodule "dyeing"]
+	path = dyeing
+	url = https://github.com/tars-node/dyeing.git
