@@ -69,7 +69,7 @@ Tars.js 根据不同的业务类型提供差异化运营方案：
 	* 服务基本信息：
 		* 服务名称：HelloWorld
 		* 服务类型：NODEJS
-		* 模板名称：tars.default
+		* 模板名称：tars.cloud.default
 	* OBJ 部署信息：
 		* OBJ名称：HttpObj
 		* 是TARS：选择否（移除复选框）
