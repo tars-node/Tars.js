@@ -34,3 +34,6 @@
 [submodule "dyeing"]
 	path = dyeing
 	url = https://github.com/tars-node/dyeing.git
+[submodule "nodetools-cli"]
+	path = nodetools-cli
+	url = https://github.com/tars-node/nodetools-cli.git
